@@ -1,0 +1,7 @@
+*.h5df
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.npz
+*.npy
