@@ -1,0 +1,5 @@
+[TIME] parse_object_goal_instruction took 1.590 seconds
+
+Final Lists_main.py:
+Locations: ['study room', 'living room', 'kitchen', 'living room']
+Objects:   ['desktop_computer', 'chair', 'cabinet', 'table']

@@ -1,0 +1,22 @@
+[DEBUG] 중심점 M: (0, 0)
+[DEBUG] 반지름 탐색: radius = 1
+[DEBUG] 반지름 탐색: radius = 2
+[DEBUG] 반지름 탐색: radius = 3
+[DEBUG] 반지름 탐색: radius = 4
+[DEBUG] 반지름 탐색: radius = 5
+[DEBUG] 반지름 탐색: radius = 6
+[DEBUG] 반지름 탐색: radius = 7
+[DEBUG] 반지름 탐색: radius = 8
+[DEBUG] 반지름 탐색: radius = 9
+[DEBUG] 반지름 탐색: radius = 10
+[DEBUG] 반지름 탐색: radius = 11
+[DEBUG] 반지름 탐색: radius = 12
+[DEBUG] 반지름 탐색: radius = 13
+[DEBUG] 반지름 탐색: radius = 14
+[DEBUG] 반지름 탐색: radius = 15
+[DEBUG] 반지름 탐색: radius = 16
+[DEBUG] 반지름 탐색: radius = 17
+[DEBUG] 반지름 탐색: radius = 18
+[DEBUG] 반지름 탐색: radius = 19
+[DEBUG] 반지름 탐색: radius = 20
+[DEBUG] 유효한 7번 픽셀 A를 찾지 못했음 → continue
